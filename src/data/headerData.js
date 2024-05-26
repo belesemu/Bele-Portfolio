@@ -7,5 +7,5 @@ export const headerData = {
     title: "Senior Machine Learning Engineer",
     desciption:"Senior Machine Learning Engineer with 6 years of experience crafting predictive and prescriptive models for supply chain, sales, marketing, and maintenance business domains. Proficient in machine and deep learning. I specialize in Python for data analysis, visualization, and modelling. Passionate about uncovering actionable insights using data, promoting data-driven decisions, and skilled in image recognition, object detection, and time series modelling on Azure, GCP and AWS. Thrives in multicultural environments, excelling in communication and well-versed in CRISP-DM and Agile methodologies.",
     image: photo_bele,
-    resumePdf: resume
+    resumePdf: 'https://raw.githubusercontent.com/belesemu/Bele-Portfolio/084e522b3d34aada992b4fdcadf8152d84c8acb4/src/assets/pdf/resume.pdf'
 }
